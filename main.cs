@@ -11,7 +11,7 @@ class MainClass {
    Console.WriteLine("Enter the first side of the triangle:");
    double side1 = Convert.ToDouble(Console.ReadLine());
 
-   Console.WriteLine("Enter the first side of the triangle:");
+   Console.WriteLine("Enter the second side of the triangle:");
    double side2 = Convert.ToDouble(Console.ReadLine());
 
   
